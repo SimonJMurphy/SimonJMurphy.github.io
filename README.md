@@ -1,18 +1,11 @@
 # Under Construction!
 
-## Simon J Murphy, University of Sydney
+## Simon J. Murphy, University of Sydney
 
 Simon Murphy is a postdoctoral researcher in asteroseismology at the University of Sydney. He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemically peculiarities such as the lambda Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems.
 
 Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
-
-## Publication lists, CV, etc
-
-[Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
-[Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
-[Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2021_09.pdf?dl=0)
-
-### Research interests
+## Research interests
 
 interests:
     - $\delta$ Scuti stars
@@ -26,7 +19,13 @@ interests:
     - pulsation timing
     - binary star orbits
 
-### Social interests
+### Publication lists, CV, etc
+
+* [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
+* [Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
+* [Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2021_09.pdf?dl=0)
+
+## Social interests
 
 Social interests:
     - Caving
@@ -47,7 +46,7 @@ Committee roles:
     - Mapping officer, Uringa Orienteers
     - Committee member, NSW Cave Rescue Squad
 
-### Contact
+## Contact
 
 email = simon.murphy@sydney.edu.au
 office = +61290365104
