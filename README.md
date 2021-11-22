@@ -6,7 +6,7 @@ Simon is also an outdoors enthusiast, participating in many adventure sports and
 
 ## Research interests
 
-I'm currently working on:  
+_I'm currently working on:_  
 Mode identification for rapidly rotating pulsators in the Pleiades star cluster. This will help us to derive accurate cluster ages from asteroseismology!
 
 My interests:
