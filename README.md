@@ -8,16 +8,16 @@ Simon is also an outdoors enthusiast, participating in many adventure sports and
 ## Research interests
 
 interests:
-    - $\delta$ Scuti stars
-    - $\gamma$ Doradus variables
-    - roAp stars
-    - $\lambda$ Bootis stars
-    - Am/Ap stars
-    - stellar evolution
-    - pre-main-sequence stars
-    - asteroseismic parameter inference
-    - pulsation timing
-    - binary star orbits
+    * $\delta$ Scuti stars
+    * $\gamma$ Doradus variables
+    * roAp stars
+    * $\lambda$ Bootis stars
+    * Am/Ap stars
+    * stellar evolution
+    * pre-main-sequence stars
+    * asteroseismic parameter inference
+    * pulsation timing
+    * binary star orbits
 
 ### Publication lists, CV, etc
 
@@ -27,29 +27,23 @@ interests:
 
 ## Social interests
 
-Social interests:
-    - Caving
-    - Orienteering
-    - Ice Hockey
-    - Rock climbing
-    - Canyoning
-    - Cycling
+Caving - Orienteering - Ice Hockey - Rock climbing - Canyoning - Cycling
 
 ### Volunteering and Community
 
 Volunteering:
-    - NSW Cave Rescue Squad
-    - NSW State Emergency Services
+    * NSW Cave Rescue Squad
+    * NSW State Emergency Services
 
 Committee roles:
-    - Secretary, Sydney University Speleological Society
-    - Mapping officer, Uringa Orienteers
-    - Committee member, NSW Cave Rescue Squad
+    * Secretary, Sydney University Speleological Society
+    * Mapping officer, Uringa Orienteers
+    * Committee member, NSW Cave Rescue Squad
 
 ## Contact
 
-email = simon.murphy@sydney.edu.au
-office = +61290365104
-mobile = +61426890131
-snail: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
-directions: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
+* email = simon.murphy@sydney.edu.au
+* office = +61290365104
+* mobile = +61426890131
+* snail: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
+* directions: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
