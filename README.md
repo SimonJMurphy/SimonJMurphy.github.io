@@ -20,11 +20,17 @@ Interests:
    * pulsation timing
    * binary star orbits
 
-### Publication lists, CV, etc
+### Publication lists, CV, and other documents
 
    * [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
    * [Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
    * [Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2021_09.pdf?dl=0)
+
+### Public and media
+
+Selected media pieces and public talks:
+* 5-minute news segment with the ABC on [a star pulsating in only one hemisphere](https://vimeo.com/399390468)
+* Shirtloads of Science podcast with Dr Karl Kruszelnicki: [ep.186 When stars are born, they shake](https://podcasts.google.com/feed/aHR0cDovL3NoaXJ0bG9hZHNvZnNjaWVuY2UubGlic3luLmNvbS9yc3M/episode/ZDc3NWM0NjktZWUxOS00NzY0LThkYTEtNjlmYjZmYmEyMjky?ep=14&fbclid=IwAR3I_5K_3mwlu1TBZEPDCO0JvK4UhY0fGFQSbQiFnbZpgdzz9hOh6Jvxk84)
 
 ## Social interests
 
