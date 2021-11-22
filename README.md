@@ -43,8 +43,8 @@ Committee roles:
 
 ## Contact
 
-   * email = simon.murphy@sydney.edu.au
-   * office = +61290365104
-   * mobile = +61426890131
-   * snail: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
-   * directions: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
+   * **email**: simon.murphy@sydney.edu.au
+   * **office**: +61290365104
+   * **mobile**: +61426890131
+   * **snail**: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
+   * **directions**: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
