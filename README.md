@@ -9,16 +9,16 @@ Simon is also an outdoors enthusiast, participating in many adventure sports and
 ## Research interests
 
 Interests:
-   * &delta; Scuti stars
-   * &gamma; Doradus variables
-   * roAp stars
-   * &lambda; Bootis stars
-   * Am/Ap stars
    * stellar evolution
    * pre-main-sequence stars
    * asteroseismic parameter inference
    * pulsation timing
    * binary star orbits
+   * &delta; Scuti stars
+   * &lambda; Bootis stars
+   * &gamma; Doradus variables
+   * roAp stars
+   * Am/Ap stars
 
 ### Publication lists, CV, and other documents
 
