@@ -1,39 +1,56 @@
 # Under Construction!
 
-## Welcome to GitHub Pages
+## Simon J Murphy, University of Sydney
 
-You can use the [editor on GitHub](https://github.com/SimonJMurphy/SimonJMurphy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Simon Murphy is a postdoctoral researcher in asteroseismology at the University of Sydney. He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemically peculiarities such as the lambda Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
 
-### Markdown
+## Publication lists, CV, etc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
+[Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
+[Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2021_09.pdf?dl=0)
 
-```markdown
-Syntax highlighted code block
+### Research interests
 
-# Header 1
-## Header 2
-### Header 3
+interests:
+    - $\delta$ Scuti stars
+    - $\gamma$ Doradus variables
+    - roAp stars
+    - $\lambda$ Bootis stars
+    - Am/Ap stars
+    - stellar evolution
+    - pre-main-sequence stars
+    - asteroseismic parameter inference
+    - pulsation timing
+    - binary star orbits
 
-- Bulleted
-- List
+### Social interests
 
-1. Numbered
-2. List
+Social interests:
+    - Caving
+    - Orienteering
+    - Ice Hockey
+    - Rock climbing
+    - Canyoning
+    - Cycling
 
-**Bold** and _Italic_ and `Code` text
+### Volunteering and Community
 
-[Link](url) and ![Image](src)
-```
+Volunteering:
+    - NSW Cave Rescue Squad
+    - NSW State Emergency Services
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Committee roles:
+    - Secretary, Sydney University Speleological Society
+    - Mapping officer, Uringa Orienteers
+    - Committee member, NSW Cave Rescue Squad
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonJMurphy/SimonJMurphy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+email = simon.murphy@sydney.edu.au
+office = +61290365104
+mobile = +61426890131
+snail: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
+directions: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
