@@ -8,7 +8,10 @@ Simon is also an outdoors enthusiast, participating in many adventure sports and
 
 ## Research interests
 
-Interests:
+I'm currently working on:  
+Mode identification for rapidly rotating pulsators in the Pleiades star cluster. This will help us to derive accurate cluster ages from asteroseismology!
+
+My Interests:
    * stellar evolution
    * pre-main-sequence stars
    * asteroseismic parameter inference
