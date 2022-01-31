@@ -25,7 +25,7 @@ My interests:
 
    * [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
    * [Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
-   * [Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2021_09.pdf?dl=0)
+   * [Short academic CV](https://www.dropbox.com/s/0uvepmkof8bxjdy/Simon_J_Murphy_CV_short_2022_01.pdf?dl=0)
 
 ### Public and media
 
