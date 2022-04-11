@@ -1,6 +1,6 @@
-# Simon J. Murphy, Univ. of Sydney
+# Simon J. Murphy, Univ. of Southern Queensland
 
-Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Sydney. He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
+Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland. He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
 
 Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
 
@@ -50,8 +50,5 @@ Committee roles:
 
 ## Contact
 
-   * **email**: <simon.murphy@sydney.edu.au>
-   * **office**: +61290365104
+   * **email**: <simon.murphy@usq.edu.au>
    * **mobile**: +61426890131
-   * **snail**: School of Physics (A28), Physics Road, University of Sydney, Camperdown, NSW 2006, Australia
-   * **directions**: Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building.
