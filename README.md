@@ -1,4 +1,4 @@
-# Simon J. Murphy, Univ. of Southern Queensland
+# Simon J. Murphy, USQ
 
 Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
 
