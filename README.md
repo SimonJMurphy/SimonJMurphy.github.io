@@ -21,6 +21,8 @@ My interests:
    * roAp stars
    * Am/Ap stars
 
+You can find my academic profile on the USQ Astrophysics page, [here](https://astrophysics.usq.edu.au/simon-j-murphy/).
+
 ### Publication lists, CV, and other documents
 
    * [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
