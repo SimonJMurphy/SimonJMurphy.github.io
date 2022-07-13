@@ -1,6 +1,6 @@
 # Simon J. Murphy, USQ
 
-\[[=> opening: PhD position with scholarship](https://simonjmurphy.github.io/#phd-position)\]
+[=> opening: PhD position with scholarship](https://simonjmurphy.github.io/#phd-position)
 
 Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
 
@@ -60,7 +60,7 @@ Committee roles:
 
 ## PhD Position
 
-I have an opening for a PhD student to start late 2022 / early 2023. Here's the advert text, below. Reach out with any queries!
+_I have an opening for a PhD student to start late 2022 / early 2023. The advert text is below. Reach out with any queries!_
 
 The Centre for Astrophysics at the University of Southern Queensland is seeking applications for a fully-funded scholarship PhD position, to begin between 2022 November and 2023 February (flexible).  The stipend totals $32,000 AUD per year for 3 years, plus an allowance for computing and travel.  Details on the research interests in our Centre can be found at [https://astrophysics.usq.edu.au/](https://astrophysics.usq.edu.au/)
 
@@ -73,6 +73,3 @@ The student will be expected to work on modelling the pulsations of intermediate
 Interested candidates should send a CV and contact details for one reference to Dr Simon Murphy (<simon.murphy@usq.edu.au>) by August 24th for full consideration.  UniSQ is committed to enhancing diversity in astrophysics, and we particularly welcome applications from women and traditionally under-represented groups.
 
 Enquiries about the research in the Centre for Astrophysics can be directed to <simon.murphy@usq.edu.au>
-
-![image](https://user-images.githubusercontent.com/509713/178643086-766e64c2-7e65-4091-a398-1b85efb88fce.png)
-
