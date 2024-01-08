@@ -1,13 +1,13 @@
 # Simon J. Murphy, USQ
 
-Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
+Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focuses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
 
 Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
 
 ## Research interests
 
 _I'm currently working on:_  
-Mode identification for rapidly rotating pulsators in the Pleiades star cluster. This will help us to derive accurate cluster ages from asteroseismology!
+Mode identification for rapidly rotating pulsators in star clusters. This will help us to derive accurate cluster ages from asteroseismology!
 
 My interests:
    * stellar evolution
@@ -37,18 +37,13 @@ Selected media pieces and public talks:
 
 ## Social interests
 
-My main hobbies include: Caving - Orienteering - Ice Hockey - Rock climbing - Canyoning - Cycling
+My main hobbies include: Rock climbing - Caving - Ice Hockey - Canyoning - Cycling - Orienteering
 
 ### Volunteering and Community
 
 Volunteering:
   * NSW Cave Rescue Squad
   * NSW State Emergency Services
-
-Committee roles:
-  * Secretary, Sydney University Speleological Society
-  * Mapping officer, Uringa Orienteers
-  * Committee member, NSW Cave Rescue Squad
 
 ## Contact
 
