@@ -49,4 +49,4 @@ Volunteering:
 
    * **email**: <simon.murphy@usq.edu.au>
    * **mobile**: +61426890131
-   * **snail**: Dr Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350. (Note I'm working remotely until early 2023!)
+   * **snail**: Dr Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350.
