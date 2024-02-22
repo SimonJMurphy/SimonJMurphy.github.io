@@ -27,7 +27,7 @@ You can find my academic profile on the USQ Astrophysics page, [here](https://as
 
    * [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
    * [Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
-   * [Short academic CV](https://www.dropbox.com/s/rus92kzaj4a8rc4/Simon_J_Murphy_CV_short_2022_10.pdf?dl=0)
+   * [Short academic CV](https://www.dropbox.com/scl/fi/xqoa7nu6iptupbuq090qf/Simon_J_Murphy_CV_short.pdf?rlkey=6i0lcrlvwvv834pif7yjbew36&dl=0)
 
 ### Public and media
 
