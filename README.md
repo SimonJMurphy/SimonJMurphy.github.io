@@ -1,16 +1,17 @@
 # Simon J. Murphy, USQ
 
-Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focuses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
+Simon Murphy is an ARC Future Fellow in asteroseismology at the University of Southern Queensland (USQ). He uses stellar pulsation models to characterise stellar masses, ages and metallicities. His research focuses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemical peculiarities such as the &lambda; Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems. \[[contact](https://simonjmurphy.github.io/#contact)\]
 
 Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
 
 ## Research interests
 
 _I'm currently working on:_  
-Mode identification for rapidly rotating pulsators in star clusters. This will help us to derive accurate cluster ages from asteroseismology!
+* Disequilibrium nuclear fusion reactions in pre-main-sequence stars,
+* Mode identification for rapidly rotating pulsators in star clusters. This will help us to derive accurate cluster ages from asteroseismology!
 
 My interests:
-   * stellar evolution
+   * stellar evolution and nucleosynthesis
    * pre-main-sequence stars
    * asteroseismic parameter inference
    * pulsation timing
@@ -34,6 +35,7 @@ You can find my academic profile on the USQ Astrophysics page, [here](https://as
 Selected media pieces and public talks:
 * 5-minute news segment with the ABC on [a star pulsating in only one hemisphere](https://vimeo.com/399390468)
 * Shirtloads of Science podcast with Dr Karl Kruszelnicki: [ep.186 When stars are born, they shake](https://podcasts.google.com/feed/aHR0cDovL3NoaXJ0bG9hZHNvZnNjaWVuY2UubGlic3luLmNvbS9yc3M/episode/ZDc3NWM0NjktZWUxOS00NzY0LThkYTEtNjlmYjZmYmEyMjky?ep=14&fbclid=IwAR3I_5K_3mwlu1TBZEPDCO0JvK4UhY0fGFQSbQiFnbZpgdzz9hOh6Jvxk84)
+* Space Connect Podcast on [taking the guesswork out of finding planets](https://www.spaceconnectonline.com.au/discovery/5931-podcast-taking-the-guesswork-out-of-finding-planets)
 
 ## Social interests
 
@@ -43,10 +45,10 @@ My main hobbies include: Rock climbing - Caving - Ice Hockey - Canyoning - Cycli
 
 Volunteering:
   * NSW Cave Rescue Squad
-  * NSW State Emergency Services
+  * [Moreton Bay Shellfish Reef Restoration with OzFish](https://ozfish.org.au/projects/moreton-bay-shellfish-reef-restoration/)
 
 ## Contact
 
    * **email**: <simon.murphy@usq.edu.au>
    * **mobile**: +61426890131
-   * **snail**: Dr Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350.
+   * **snail**: A/Prof Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350.
