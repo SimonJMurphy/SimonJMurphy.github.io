@@ -50,5 +50,4 @@ Volunteering:
 ## Contact
 
    * **email**: <simon.murphy@usq.edu.au>
-   * **mobile**: +61426890131
    * **snail**: A/Prof Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350.
