@@ -28,7 +28,7 @@ You can find my academic profile on the USQ Astrophysics page, [here](https://as
 
    * [Publication list](https://www.dropbox.com/s/9qni389nkng53tb/publications.pdf?dl=0) (made with [ADSref](https://github.com/SimonJMurphy/ADSref))
    * [Talks and seminars](https://www.dropbox.com/s/e6fwd34iix3rozp/presentations.pdf?dl=0)
-   * [Short academic CV](https://www.dropbox.com/scl/fi/pjeaj75fuehis3aud7yoi/Simon_J_Murphy_CV_short.pdf?rlkey=lzw4h9w0fmedlzdn1i8l5mv1m&st=kh1azfp9&dl=0)
+   * [Short academic CV](https://www.dropbox.com/scl/fi/uqzasjozkzkr7638da9h8/Simon_J_Murphy_CV_short.pdf?rlkey=4jk5ejmx744w75463hhjhrnuo&dl=0)
 
 ### Public and media
 
@@ -49,5 +49,5 @@ Volunteering:
 
 ## Contact
 
-   * **email**: <simon.murphy@usq.edu.au>
+   * **email**: <simon.murphy@unisq.edu.au>
    * **snail**: A/Prof Simon Murphy, USQ Toowoomba, 487-535 West St, Darling Heights QLD 4350.
